@@ -3,7 +3,7 @@
     <title>l&#x27;amatore del vino</title>
     <link href="https://dev.amatoredelvino.it/feed.xml" rel="self" />
     <link href="https://dev.amatoredelvino.it" />
-    <updated>2024-02-14T01:41:52+01:00</updated>
+    <updated>2024-02-14T12:20:57+01:00</updated>
     <author>
         <name>Dario</name>
     </author>
@@ -19,13 +19,8 @@
         <media:content url="https://dev.amatoredelvino.it/media/posts/30/DSC_1559-scaled.jpg" medium="image" />
             <category term="eventi"/>
 
-        <updated>2024-02-14T01:05:57+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://dev.amatoredelvino.it/media/posts/30/DSC_1559-scaled.jpg" alt="" />
-                    &amp;lt;br /&amp;gt; &amp;lt;a href="http://www.shinystat.com/it" target="_top"&amp;gt;&amp;lt;br /&amp;gt; &amp;lt;img src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=ciofelio" alt="Contatore accessi gratuito" border="0" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;br /&amp;gt;
-                ]]>
-            </summary>
+        <updated>2024-02-14T12:20:57+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dev.amatoredelvino.it/media/posts/30/DSC_1559-scaled.jpg" class="type:primaryImage" alt="" /></p>
@@ -142,10 +137,6 @@
 <p> </p>
 <p> </p>
 <p> </p>
-<p><!-- Inizio Codice ShinyStat -->
-<script type="text/javascript" src="http://codice.shinystat.com/cgi-bin/getcod.cgi?USER=ciofelio"></script>
-</p>
-<p><noscript>&amp;lt;br /&amp;gt; &amp;lt;a href="http://www.shinystat.com/it" target="_top"&amp;gt;&amp;lt;br /&amp;gt; &amp;lt;img src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=ciofelio" alt="Contatore accessi gratuito" border="0" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;br /&amp;gt;</noscript></p>
             ]]>
         </content>
     </entry>
